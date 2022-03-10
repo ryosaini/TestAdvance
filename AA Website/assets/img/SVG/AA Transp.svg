@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1057.435" height="1389.994" viewBox="0 0 1057.435 1389.994">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e1e1e1"/>
+      <stop offset="1" stop-color="#717171" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_1593" data-name="Path 1593" d="M2484.156,817.935a20.61,20.61,0,0,0,31.716-17.373s-.546-100.877,108.989-128.044a20.615,20.615,0,0,0,14.346-27.145l-233.5-631.9A20.622,20.622,0,0,0,2386.363,0H2102.052a20.612,20.612,0,0,0-19.333,13.477L1584.347,1362.218a20.628,20.628,0,0,0,19.342,27.776h315.117a20.623,20.623,0,0,0,19.7-14.5l216.135-694.645,69.881-224.777c6-19.339,33.369-19.339,39.385,0l69.887,224.777,32.21,103.5a20.6,20.6,0,0,0,22.012,14.357c25.75-2.905,63.266-1.915,96.141,19.222" transform="translate(-1583.053)" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+</svg>

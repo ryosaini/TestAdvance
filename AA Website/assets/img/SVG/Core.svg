@@ -1,0 +1,224 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="793" height="793" viewBox="0 0 793 793">
+  <defs>
+    <filter id="Ellipse_12" x="0" y="0" width="793" height="793" filterUnits="userSpaceOnUse">
+      <feOffset dy="49" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="22.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_97" data-name="Rectangle 97" width="688.455" height="688.453" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_83" data-name="Rectangle 83" width="687.208" height="687.209" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_82" data-name="Rectangle 82" width="654.313" height="173.398"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_81" data-name="Rectangle 81" width="654.313" height="173.397"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect id="Rectangle_85" data-name="Rectangle 85" width="162.053" height="27.301" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <rect id="Rectangle_87" data-name="Rectangle 87" width="157.8" height="27.301" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-10">
+      <rect id="Rectangle_90" data-name="Rectangle 90" width="115.056" height="57.915" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-11">
+      <rect id="Rectangle_88" data-name="Rectangle 88" width="115.056" height="27.301" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-12">
+      <rect id="Rectangle_89" data-name="Rectangle 89" width="89.714" height="27.301" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-13">
+      <rect id="Rectangle_93" data-name="Rectangle 93" width="115.932" height="57.915" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-14">
+      <rect id="Rectangle_91" data-name="Rectangle 91" width="86.338" height="27.301" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-15">
+      <rect id="Rectangle_92" data-name="Rectangle 92" width="115.932" height="27.301" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-16">
+      <rect id="Rectangle_95" data-name="Rectangle 95" width="237.28" height="27.301" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1929" data-name="Group 1929" transform="translate(-972.5 -4886.5)">
+    <g transform="matrix(1, 0, 0, 1, 972.5, 4886.5)" filter="url(#Ellipse_12)">
+      <circle id="Ellipse_12-2" data-name="Ellipse 12" cx="329" cy="329" r="329" transform="translate(67.5 18.5)" fill="#fff"/>
+    </g>
+    <g id="Group_197" data-name="Group 197" transform="translate(1025.045 4890.045)" clip-path="url(#clip-path)">
+      <g id="Group_158" data-name="Group 158" transform="translate(0.621 0.621)">
+        <g id="Group_157" data-name="Group 157" clip-path="url(#clip-path-2)">
+          <path id="Path_399" data-name="Path 399" d="M348.344,92.308c141.406,0,256.032,114.63,256.032,256.032H675.5c0-180.679-146.469-327.153-327.153-327.153S21.187,167.661,21.187,348.342H92.308c0-141.4,114.631-256.032,256.032-256.032" transform="translate(-4.739 -4.739)" fill="#012072"/>
+          <path id="Path_400" data-name="Path 400" d="M365.5,109.467c-141.4,0-256.032,114.63-256.032,256.032h170.69a85.345,85.345,0,0,1,170.691,0H621.538c0-141.4-114.631-256.032-256.032-256.032" transform="translate(-21.897 -21.897)" fill="#09d6cc"/>
+          <path id="Path_402" data-name="Path 402" d="M496.344,405.457h-11.38a79.656,79.656,0,1,0-159.311-.508v.508h-11.38a91.037,91.037,0,0,1,182.07,0" transform="translate(-61.704 -61.85)" fill="#fff"/>
+          <path id="Path_403" data-name="Path 403" d="M348.344,600.667c180.684,0,327.157-77.634,327.157-173.4H604.379c0,74.945-114.63,135.7-256.032,135.7S92.316,502.215,92.316,427.27H21.187c0,95.764,146.474,173.4,327.157,173.4" transform="translate(-4.739 -83.666)" fill="#012072"/>
+          <path id="Path_404" data-name="Path 404" d="M365.5,472.5c-47.135,0-85.345-20.252-85.345-45.235H109.466c0,74.945,114.631,135.7,256.032,135.7s256.032-60.756,256.032-135.7H450.847c0,24.984-38.212,45.235-85.345,45.235" transform="translate(-21.897 -83.666)" fill="#09d6cc"/>
+          <path id="Path_405" data-name="Path 405" d="M321.336,427.271c0,24.984,38.211,45.235,85.345,45.235s85.345-20.252,85.345-45.235Z" transform="translate(-63.077 -83.666)" fill="#eee"/>
+          <path id="Path_406" data-name="Path 406" d="M405.311,478.2c-51.048,0-91.037-22.369-91.037-50.925h11.38c0,21.436,36.478,39.546,79.656,39.546s79.655-18.109,79.655-39.545h11.38c0,28.555-39.987,50.925-91.037,50.925" transform="translate(-61.704 -83.666)" fill="#fff"/>
+          <g id="Group_156" data-name="Group 156" transform="translate(16.448 343.604)" opacity="0.21">
+            <g id="Group_155" data-name="Group 155">
+              <g id="Group_154" data-name="Group 154" clip-path="url(#clip-path-3)">
+                <g id="Group_153" data-name="Group 153">
+                  <g id="Group_152" data-name="Group 152" clip-path="url(#clip-path-4)">
+                    <path id="Path_407" data-name="Path 407" d="M21.187,427.271c0,95.764,146.474,173.4,327.157,173.4S675.5,523.034,675.5,427.271Z" transform="translate(-21.187 -427.27)"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_196" data-name="Group 196">
+        <g id="Group_195" data-name="Group 195" clip-path="url(#clip-path)">
+          <g id="Group_164" data-name="Group 164" transform="translate(386.702 206.704)" style="isolation: isolate">
+            <g id="Group_163" data-name="Group 163">
+              <g id="Group_162" data-name="Group 162" clip-path="url(#clip-path-6)">
+                <g id="Group_161" data-name="Group 161" style="isolation: isolate">
+                  <g id="Group_160" data-name="Group 160">
+                    <g id="Group_159" data-name="Group 159" clip-path="url(#clip-path-6)">
+                      <text id="Coaching_calls" data-name="Coaching calls" transform="translate(-0.001 21.133)" fill="#fff" font-size="25" font-family="Barlow-Medium, Barlow" font-weight="500"><tspan x="0" y="0" letter-spacing="-0.001em">C</tspan><tspan y="0">oaching calls</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Group_170" data-name="Group 170" transform="translate(143.109 206.704)" style="isolation: isolate">
+            <g id="Group_169" data-name="Group 169">
+              <g id="Group_168" data-name="Group 168" clip-path="url(#clip-path-8)">
+                <g id="Group_167" data-name="Group 167" style="isolation: isolate">
+                  <g id="Group_166" data-name="Group 166">
+                    <g id="Group_165" data-name="Group 165" clip-path="url(#clip-path-8)">
+                      <text id="Accurate_data" data-name="Accurate data" transform="translate(0 21.133)" fill="#fff" font-size="25" font-family="Barlow-Medium, Barlow" font-weight="500"><tspan x="0" y="0" letter-spacing="-0.013em">A</tspan><tspan y="0" letter-spacing="-0.003em">c</tspan><tspan y="0">cu</tspan><tspan y="0" letter-spacing="-0.003em">r</tspan><tspan y="0" letter-spacing="-0.006em">a</tspan><tspan y="0" letter-spacing="-0.011em">t</tspan><tspan y="0">e d</tspan><tspan y="0" letter-spacing="-0.006em">a</tspan><tspan y="0">ta</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Group_179" data-name="Group 179" transform="translate(126.778 274.378)" style="isolation: isolate">
+            <g id="Group_178" data-name="Group 178">
+              <g id="Group_177" data-name="Group 177" clip-path="url(#clip-path-10)">
+                <g id="Group_173" data-name="Group 173" style="isolation: isolate">
+                  <g id="Group_172" data-name="Group 172">
+                    <g id="Group_171" data-name="Group 171" clip-path="url(#clip-path-11)">
+                      <text id="Real-time_" data-name="Real-time " transform="translate(-0.001 21.133)" fill="#fff" font-size="25" font-family="Barlow-Medium, Barlow" font-weight="500"><tspan x="0" y="0" letter-spacing="-0.003em">R</tspan><tspan y="0" letter-spacing="-0.004em">e</tspan><tspan y="0">al</tspan><tspan y="0" letter-spacing="-0.009em">-</tspan><tspan y="0">ti</tspan><tspan y="0" letter-spacing="-0.005em">m</tspan><tspan y="0">e </tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g id="Group_176" data-name="Group 176" transform="translate(10.093 30.614)" style="isolation: isolate">
+                  <g id="Group_175" data-name="Group 175">
+                    <g id="Group_174" data-name="Group 174" clip-path="url(#clip-path-12)">
+                      <text id="insights" transform="translate(0 21.133)" fill="#fff" font-size="25" font-family="Barlow-Medium, Barlow" font-weight="500"><tspan x="0" y="0">insights</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Group_188" data-name="Group 188" transform="translate(448.594 271.155)" style="isolation: isolate">
+            <g id="Group_187" data-name="Group 187">
+              <g id="Group_186" data-name="Group 186" clip-path="url(#clip-path-13)">
+                <g id="Group_182" data-name="Group 182" transform="translate(14.798)" style="isolation: isolate">
+                  <g id="Group_181" data-name="Group 181">
+                    <g id="Group_180" data-name="Group 180" clip-path="url(#clip-path-14)">
+                      <text id="Regular" transform="translate(0 21.133)" fill="#fff" font-size="25" font-family="Barlow-Medium, Barlow" font-weight="500"><tspan x="0" y="0" letter-spacing="-0.003em">R</tspan><tspan y="0">egular</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g id="Group_185" data-name="Group 185" transform="translate(0 30.614)" style="isolation: isolate">
+                  <g id="Group_184" data-name="Group 184">
+                    <g id="Group_183" data-name="Group 183" clip-path="url(#clip-path-15)">
+                      <text id="_reporting_" data-name=" reporting " transform="translate(0 21.133)" fill="#fff" font-size="25" font-family="Barlow-Medium, Barlow" font-weight="500"><tspan x="0" y="0"> </tspan><tspan y="0" letter-spacing="-0.007em">r</tspan><tspan y="0">e</tspan><tspan y="0" letter-spacing="-0.006em">p</tspan><tspan y="0">o</tspan><tspan y="0" letter-spacing="0.011em">r</tspan><tspan y="0">ting </tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Group_194" data-name="Group 194" transform="translate(228.243 134.197)" style="isolation: isolate">
+            <g id="Group_193" data-name="Group 193">
+              <g id="Group_192" data-name="Group 192" clip-path="url(#clip-path-16)">
+                <g id="Group_191" data-name="Group 191" style="isolation: isolate">
+                  <g id="Group_190" data-name="Group 190">
+                    <g id="Group_189" data-name="Group 189" clip-path="url(#clip-path-16)">
+                      <text id="Industry_benchmarks" data-name="Industry benchmarks" transform="translate(0 21.133)" fill="#fff" font-size="25" font-family="Barlow-Medium, Barlow" font-weight="500"><tspan x="0" y="0">I</tspan><tspan y="0" letter-spacing="-0.005em">n</tspan><tspan y="0">du</tspan><tspan y="0" letter-spacing="-0.001em">s</tspan><tspan y="0">t</tspan><tspan y="0" letter-spacing="0.021em">r</tspan><tspan y="0">y </tspan><tspan y="0" letter-spacing="-0.005em">b</tspan><tspan y="0">e</tspan><tspan y="0" letter-spacing="-0.005em">n</tspan><tspan y="0">chmar</tspan><tspan y="0" letter-spacing="-0.006em">k</tspan><tspan y="0">s</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <text id="_" data-name=" " transform="matrix(0.11, -0.994, 0.994, 0.11, 58.288, 344.352)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+      <text id="_2" data-name=" " transform="matrix(0.139, -0.99, 0.99, 0.139, 59.083, 337.217)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+      <text id="_3" data-name=" " transform="matrix(0.161, -0.987, 0.987, 0.161, 60.078, 330.108)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+      <text id="_4" data-name=" " transform="matrix(0.18, -0.984, 0.984, 0.18, 61.239, 322.971)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+      <text id="A" transform="matrix(0.22, -0.976, 0.976, 0.22, 61.369, 315.75)" fill="#fff" font-size="36" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">A</tspan></text>
+      <text id="c" transform="matrix(0.27, -0.963, 0.963, 0.27, 66.624, 292.616)" fill="#fff" font-size="36" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">c</tspan></text>
+      <text id="t" transform="matrix(0.309, -0.951, 0.951, 0.309, 70.988, 273.555)" fill="#fff" font-size="35" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">t</tspan></text>
+      <text id="i" transform="matrix(0.336, -0.942, 0.942, 0.336, 77.176, 261.078)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">i</tspan></text>
+      <text id="o" transform="matrix(0.372, -0.928, 0.928, 0.372, 79.208, 252.088)" fill="#fff" font-size="36" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">o</tspan></text>
+      <text id="n" transform="matrix(0.422, -0.907, 0.907, 0.422, 87.606, 233.794)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">n</tspan></text>
+      <text id="_5" data-name=" " transform="matrix(0.456, -0.89, 0.89, 0.456, 96.074, 215.863)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+      <text id="_6" data-name=" " transform="matrix(0.475, -0.88, 0.88, 0.475, 99.363, 209.444)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+      <text id="_-" data-name="-" transform="matrix(0.505, -0.863, 0.863, 0.505, 102.695, 203.134)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">-</tspan></text>
+      <text id="_7" data-name=" " transform="matrix(0.534, -0.845, 0.845, 0.534, 110.206, 190.403)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+      <text id="_8" data-name=" " transform="matrix(0.554, -0.833, 0.833, 0.554, 114.048, 184.32)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+      <text id="P" transform="matrix(0.594, -0.805, 0.805, 0.594, 116.994, 177.753)" fill="#fff" font-size="36" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">P</tspan></text>
+      <text id="e" transform="matrix(0.648, -0.761, 0.761, 0.648, 129.898, 161.908)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">e</tspan></text>
+      <text id="r" transform="matrix(0.694, -0.72, 0.72, 0.694, 141.246, 145.614)" fill="#fff" font-size="35" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">r</tspan></text>
+      <text id="f" transform="matrix(0.733, -0.681, 0.681, 0.733, 152.36, 136.969)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">f</tspan></text>
+      <text id="o-2" data-name="o" transform="matrix(0.774, -0.633, 0.633, 0.774, 160.913, 127.458)" fill="#fff" font-size="36" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">o</tspan></text>
+      <text id="r-2" data-name="r" transform="matrix(0.816, -0.578, 0.578, 0.816, 175.938, 114.004)" fill="#fff" font-size="35" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">r</tspan></text>
+      <text id="m" transform="matrix(0.864, -0.503, 0.503, 0.864, 187.381, 106.633)" fill="#fff" font-size="36" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">m</tspan></text>
+      <text id="a-2" data-name="a" transform="matrix(0.91, -0.414, 0.414, 0.91, 213.546, 91.711)" fill="#fff" font-size="36" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">a</tspan></text>
+      <text id="n-2" data-name="n" transform="matrix(0.939, -0.344, 0.344, 0.939, 231.161, 84.76)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">n</tspan></text>
+      <text id="c-2" data-name="c" transform="matrix(0.962, -0.273, 0.273, 0.962, 249.206, 77.09)" fill="#fff" font-size="36" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">c</tspan></text>
+      <text id="e-2" data-name="e" transform="matrix(0.979, -0.206, 0.206, 0.979, 267.813, 72.816)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">e</tspan></text>
+      <text id="_9" data-name=" " transform="matrix(0.987, -0.161, 0.161, 0.987, 287.163, 68.884)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+      <text id="_10" data-name=" " transform="matrix(0.99, -0.138, 0.138, 0.99, 294.25, 67.726)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+      <text id="_--2" data-name="-" transform="matrix(0.995, -0.103, 0.103, 0.995, 301.3, 66.676)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">-</tspan></text>
+      <text id="_11" data-name=" " transform="matrix(0.998, -0.07, 0.07, 0.998, 316.035, 65.209)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+      <text id="_12" data-name=" " transform="matrix(0.999, -0.049, 0.049, 0.999, 323.21, 64.705)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+      <text id="R-3" data-name="R" transform="matrix(1, -0.021, 0.021, 1, 330.36, 63.351)" fill="#fff" font-size="36" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">R</tspan></text>
+      <text id="e-3" data-name="e" transform="matrix(0.992, 0.129, -0.129, 0.992, 351.688, 64.422)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">e</tspan></text>
+      <text id="s" transform="matrix(0.983, 0.186, -0.186, 0.983, 371.151, 65.968)" fill="#fff" font-size="36" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">s</tspan></text>
+      <text id="u" transform="matrix(0.971, 0.238, -0.238, 0.971, 388.741, 70.285)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">u</tspan></text>
+      <text id="l" transform="matrix(0.961, 0.277, -0.277, 0.961, 408.715, 72.205)" fill="#fff" font-size="34" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">l</tspan></text>
+      <text id="t-2" data-name="t" transform="matrix(0.952, 0.307, -0.307, 0.952, 416.925, 75.565)" fill="#fff" font-size="35" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">t</tspan></text>
+      <text id="s-2" data-name="s" transform="matrix(0.937, 0.35, -0.35, 0.937, 429.692, 80.67)" fill="#fff" font-size="36" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">s</tspan></text>
+      <text id="_13" data-name=" " transform="matrix(0.923, 0.384, -0.384, 0.923, 446.356, 88.066)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+      <text id="_14" data-name=" " transform="matrix(0.915, 0.404, -0.404, 0.915, 452.994, 90.828)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+      <text id="_--3" data-name="-" transform="matrix(0.901, 0.435, -0.435, 0.901, 459.557, 93.654)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">-</tspan></text>
+      <text id="_15" data-name=" " transform="matrix(0.885, 0.465, -0.465, 0.885, 472.836, 100.131)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+      <text id="_16" data-name=" " transform="matrix(0.874, 0.486, -0.486, 0.874, 479.212, 103.481)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+      <text id="D" transform="matrix(0.85, 0.527, -0.527, 0.85, 486.003, 105.889)" fill="#fff" font-size="36" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">D</tspan></text>
+      <text id="e-4" data-name="e" transform="matrix(0.81, 0.586, -0.586, 0.81, 504.355, 118.483)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">e</tspan></text>
+      <text id="c-3" data-name="c" transform="matrix(0.768, 0.64, -0.64, 0.768, 520.889, 129.201)" fill="#fff" font-size="36" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">c</tspan></text>
+      <text id="i-2" data-name="i" transform="matrix(0.734, 0.679, -0.679, 0.734, 535.054, 142.473)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">i</tspan></text>
+      <text id="s-3" data-name="s" transform="matrix(0.7, 0.715, -0.715, 0.7, 542.497, 147.83)" fill="#fff" font-size="36" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">s</tspan></text>
+      <text id="i-3" data-name="i" transform="matrix(0.663, 0.749, -0.749, 0.663, 554.381, 161.551)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">i</tspan></text>
+      <text id="o-3" data-name="o" transform="matrix(0.621, 0.783, -0.783, 0.621, 561.258, 167.575)" fill="#fff" font-size="36" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">o</tspan></text>
+      <text id="n-3" data-name="n" transform="matrix(0.563, 0.827, -0.827, 0.563, 572.908, 183.859)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">n</tspan></text>
+      <text id="_17" data-name=" " transform="matrix(0.522, 0.853, -0.853, 0.522, 583.9, 200.274)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0"> </tspan></text>
+      <text id="m-2" data-name="m" transform="matrix(0.464, 0.886, -0.886, 0.464, 588.747, 205.529)" fill="#fff" font-size="36" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">m</tspan></text>
+      <text id="a-3" data-name="a" transform="matrix(0.389, 0.921, -0.921, 0.389, 602.578, 232.391)" fill="#fff" font-size="36" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">a</tspan></text>
+      <text id="k" transform="matrix(0.332, 0.943, -0.943, 0.332, 609.997, 249.937)" fill="#fff" font-size="36" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">k</tspan></text>
+      <text id="i-4" data-name="i" transform="matrix(0.29, 0.957, -0.957, 0.29, 615.349, 268.497)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">i</tspan></text>
+      <text id="n-4" data-name="n" transform="matrix(0.25, 0.968, -0.968, 0.25, 618.103, 277.166)" fill="#fff" font-size="37" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">n</tspan></text>
+      <text id="g" transform="matrix(0.196, 0.981, -0.981, 0.196, 624.023, 296.087)" fill="#fff" font-size="36" font-family="Barlow-Bold, Barlow" font-weight="700"><tspan x="0" y="0">g</tspan></text>
+    </g>
+    <path id="Path_786" data-name="Path 786" d="M1755.991,152.036h0a5.255,5.255,0,0,1-5.255-5.255v-9.509a5.255,5.255,0,0,1,10.51,0v9.509a5.256,5.256,0,0,1-5.255,5.255" transform="translate(-354.229 5082.397)" fill="#09d6cc"/>
+    <path id="Path_787" data-name="Path 787" d="M1719.509,127.513h0a5.255,5.255,0,0,0,5.255-5.255V99.986a5.255,5.255,0,1,0-10.51,0v22.272a5.255,5.255,0,0,0,5.255,5.255" transform="translate(-330.235 5106.919)" fill="#09d6cc"/>
+    <path id="Path_788" data-name="Path 788" d="M1683.114,138.991h0a5.256,5.256,0,0,1-5.256-5.255v-16.3a5.255,5.255,0,0,1,10.511,0v16.3a5.256,5.256,0,0,1-5.255,5.255" transform="translate(-306.297 5095.442)" fill="#09d6cc"/>
+    <path id="Path_789" data-name="Path 789" d="M1625.1,38.163a.962.962,0,0,0,1.48-.811,6.347,6.347,0,0,1,5.085-5.974.962.962,0,0,0,.669-1.267L1621.437.629a.962.962,0,0,0-.9-.629h-13.265a.962.962,0,0,0-.9.629l-23.252,62.929a.962.962,0,0,0,.9,1.3h14.7a.962.962,0,0,0,.919-.676l10.084-32.41,3.26-10.487a.962.962,0,0,1,1.838,0l3.26,10.487,1.5,4.829a.962.962,0,0,0,1.027.67,6.884,6.884,0,0,1,4.486.9" transform="translate(-243.945 5169.224)" fill="#012072"/>
+  </g>
+</svg>
